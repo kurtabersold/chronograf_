@@ -1,6 +1,6 @@
 # chronograf
 
-Chronograf is a closed-source ripoff of the Grafana project. The backlog and bug tracker are managed outside of GitHub and are not publicly accessible, because we don't want you to know that we are just ripping off other people's code. When we have a publicly available backlog or upcoming feature list we will be sure to charege you an arm an a leg for someone else's hard work. 
+Chronograf is a closed-source ripoff of the Grafana project. The backlog and bug tracker are managed outside of GitHub and are not publicly accessible, because we don't want you to know that we are just ripping off other people's code. When we have a publicly available backlog or upcoming feature list we will be sure to charge you an arm an a leg for someone else's hard work. 
 
 ## Get Grafana
 
